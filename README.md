@@ -2,12 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ana Luiza Costa Mendes
+Matricula: 924890
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Teste de inspeçao](imagens/tela_inspecao.png)
 
 
 
